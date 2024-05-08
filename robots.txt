@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://github.com/AugustoLara/lagos2/tree/main/public/sitemap.xml
